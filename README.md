@@ -27,5 +27,5 @@ $ streamlit run starterdex.py
 
 
 ## Might Do
-- [ ] Potentially make a Pokedex for all Pokémon
+- [ ] Potentially make a Pokedex for all first generation Pokémon
 ---
