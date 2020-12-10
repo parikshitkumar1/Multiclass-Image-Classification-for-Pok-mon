@@ -1,7 +1,7 @@
 ---
 # Starterdex
 ## Motivation
-To make a practical, usable Pokedex for starter pokemon
+To make a practical, usable Pokédex for starter Pokémon
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
