@@ -11,7 +11,7 @@ $ pip3 install -r requirements.txt
 ```python
 $ streamlit run starterdex.py
 ```
-### or simply check it out here: https://starterdex.herokuapp.com/
+### or, check it out here: https://starterdex.herokuapp.com/
 
 ## Examples
 
