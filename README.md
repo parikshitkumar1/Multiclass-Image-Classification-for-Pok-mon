@@ -15,7 +15,7 @@ $ streamlit run starterdex.py
 
 ## Examples
 
-![new(1)](https://user-images.githubusercontent.com/52780573/102647134-43483f80-418b-11eb-82e8-89238895c30d.gif)
+![new (2)](https://user-images.githubusercontent.com/52780573/102657374-8f02e500-419b-11eb-88d1-5bc835666d5e.gif)
 
 ![1](https://user-images.githubusercontent.com/52780573/100628441-384d7c80-334e-11eb-835a-9329af166209.png)
 
