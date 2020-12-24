@@ -1,4 +1,4 @@
------
+----
 # Starterdex
 ## Motivation
 To make a practical, usable Pokédex for starter Pokémon which figures out the image of the Pokémon and gives you information about it.
