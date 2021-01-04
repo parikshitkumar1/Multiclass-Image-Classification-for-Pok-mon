@@ -33,4 +33,4 @@ $ streamlit run pokedex.py
 ## Might Do
 - [ ] Nothing
 
----
+----
