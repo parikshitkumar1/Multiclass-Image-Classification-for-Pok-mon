@@ -1,7 +1,7 @@
 ----
 # Pokédex
 ## Motivation
-To make a better version of [starterdex](https://github.com/pksenpai/Starterdex) by using fastai, transfer learning and with better front-end
+To make a better version of [starterdex](https://github.com/pksenpai/Starterdex) by using fastai, transfer learning and with a better front-end
 
 
 Uses densenet201 and knows about all 151 generation one pokemon + 15 mega evolutions
