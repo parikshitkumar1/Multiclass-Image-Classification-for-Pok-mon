@@ -15,6 +15,8 @@ $ streamlit run pokedex.py
 
 ## Examples
 
+<img src="https://user-images.githubusercontent.com/52780573/103564715-06977a80-4ee5-11eb-94ac-8cf7c452d2f0.gif" data-canonical-src="" width="800" height="500" />
+
 
 <img src="https://user-images.githubusercontent.com/52780573/103563050-24afab80-4ee2-11eb-97ff-3e6e4641b805.png" data-canonical-src="" width="800" height="500" />
 
