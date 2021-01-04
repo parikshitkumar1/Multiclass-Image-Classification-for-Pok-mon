@@ -14,7 +14,7 @@ $ pip3 install -r requirements.txt
 ```python
 $ streamlit run pokedex.py
 ```
-### I don't think I'll be deploying this, here's a lighter version: https://starterdex.herokuapp.com/
+### I don't think I'll be deploying this, here's a lighter version that has been deployed: https://starterdex.herokuapp.com/
 
 ## Examples
 
