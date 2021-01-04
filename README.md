@@ -2,6 +2,7 @@
 # Pokédex
 ## Motivation
 To make a better version of [starterdex](https://github.com/pksenpai/Starterdex) by using FastAI, transfer learning and with better front-end 
+starterdex, but better, uses densenet201 and knows about all 151 generation one pokemon + 15 mega evolutions
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
