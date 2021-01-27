@@ -23,6 +23,8 @@ $ streamlit run pokedex.py
 
 ## Examples
 
+#### you can use the included IMAGES folder to test the app
+
 ### v2:
 
 <img src="https://user-images.githubusercontent.com/52780573/105999579-e0c05880-60d3-11eb-8b69-dcfe0795abc5.gif" data-canonical-src="" width="800" height="500" />
