@@ -23,16 +23,21 @@ $ streamlit run pokedex.py
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/52780573/103564715-06977a80-4ee5-11eb-94ac-8cf7c452d2f0.gif" data-canonical-src="" width="800" height="500" />
+#### v2:
+
+<img src="https://user-images.githubusercontent.com/52780573/105999579-e0c05880-60d3-11eb-8b69-dcfe0795abc5.gif" data-canonical-src="" width="800" height="500" />
 
 
-<img src="https://user-images.githubusercontent.com/52780573/103563050-24afab80-4ee2-11eb-97ff-3e6e4641b805.png" data-canonical-src="" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/52780573/105999593-e322b280-60d3-11eb-9fcc-3fb3121793f2.png" data-canonical-src="" width="800" height="500" />
 
 
-<img src="https://user-images.githubusercontent.com/52780573/103563114-36914e80-4ee2-11eb-8291-d352f35c4b69.png" data-canonical-src="" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/52780573/105999599-e3bb4900-60d3-11eb-88c1-5b9c4ee3bf5e.png" data-canonical-src="" width="800" height="500" />
 
 
-<img src="https://user-images.githubusercontent.com/52780573/103563207-60e30c00-4ee2-11eb-8a4d-071918767620.png" data-canonical-src="" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/52780573/105999607-e5850c80-60d3-11eb-93b8-b168c86e2125.png" data-canonical-src="" width="800" height="500" />
+
+
+#### v1:
 
 
 <img src="https://user-images.githubusercontent.com/52780573/103563246-735d4580-4ee2-11eb-9a62-81e232b7cf5f.png" data-canonical-src="" width="800" height="500" />
