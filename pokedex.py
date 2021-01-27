@@ -1,9 +1,14 @@
 import streamlit as st
 from PIL import Image
 from model import pred
+import requests
+from bs4 import BeautifulSoup
 
 
 
+def getdata(url):
+    r = requests.get(url)
+    return r.text
 
 
 
@@ -43,8 +48,13 @@ if file_up is not None:
     labels = pred(file_up)
     st.subheader(labels)
     x = "https://www.pokemon.com/us/pokedex/"
-    st.subheader("To Find out more visit: ")
-    st.subheader(x+str(labels))
+    htmldata = getdata(x+str(labels))
+    soup = BeautifulSoup(htmldata, 'html.parser')
+    data = ''
+    text = []
+    for data in soup.find_all("p"):
+        text.append(data.get_text())
+    st.write(text)
     
 	
 
