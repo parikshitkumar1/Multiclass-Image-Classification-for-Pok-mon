@@ -11,8 +11,10 @@ Python 3.8 or above with all [requirements](requirements.txt) dependencies insta
 $ pip3 install -r requirements.txt
 ```
 If, you run into a load_learner error, run this on the terminal: 
-#### pip3 install https://github.com/fastai/fastai1/archive/master.zip
 
+```python
+$ pip3 install https://github.com/fastai/fastai1/archive/master.zip
+```
 #### The notebook: https://github.com/pksenpai/PyTorch-Lightning_and_fastai/blob/master/fastai.ipynb 
 
 ## To run
