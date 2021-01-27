@@ -23,7 +23,7 @@ $ streamlit run pokedex.py
 
 ## Examples
 
-#### v2:
+### v2:
 
 <img src="https://user-images.githubusercontent.com/52780573/105999579-e0c05880-60d3-11eb-8b69-dcfe0795abc5.gif" data-canonical-src="" width="800" height="500" />
 
@@ -37,7 +37,7 @@ $ streamlit run pokedex.py
 <img src="https://user-images.githubusercontent.com/52780573/105999607-e5850c80-60d3-11eb-93b8-b168c86e2125.png" data-canonical-src="" width="800" height="500" />
 
 
-#### v1:
+### v1 (without BeautifulSoup:
 
 
 <img src="https://user-images.githubusercontent.com/52780573/103563246-735d4580-4ee2-11eb-9a62-81e232b7cf5f.png" data-canonical-src="" width="800" height="500" />
