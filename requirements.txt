@@ -1,0 +1,5 @@
+fastai==1.0.64.dev0
+streamlit==0.73.1
+requests==2.22.0
+beautifulsoup4==4.9.3
+Pillow==8.1.0
