@@ -46,6 +46,6 @@ $ streamlit run pokedex.py
 <img src="https://user-images.githubusercontent.com/52780573/103563276-84a65200-4ee2-11eb-90fa-4139df8e710d.png" data-canonical-src="" width="800" height="500" />
 
 ## Might Do
-- [ ] Nothing
+- [ ]
 
 ----
