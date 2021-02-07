@@ -25,7 +25,7 @@ $ streamlit run pokedex.py
 
 ## Examples
 
-#### you can use the images included in the IMAGES folder to test the app
+#### you can use the images included in the IMAGES folder to test the app, or any other jpeg/jpg
 
 ### v2:
 
